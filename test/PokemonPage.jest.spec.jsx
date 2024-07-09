@@ -62,13 +62,13 @@ const pokemonList = {
 
 const previous = {
   url: 'https://pokeapi.co/api/v2/pokemon/132/',
-  name: 'ditto',
+  name: 'vaporeon',
   id: 132
 }
 
 const next = {
   url: 'https://pokeapi.co/api/v2/pokemon/134/',
-  name: 'vaporeon',
+  name: 'ditto',
   id: 134
 }
 
